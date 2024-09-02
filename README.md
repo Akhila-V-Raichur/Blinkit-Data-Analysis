@@ -25,7 +25,7 @@ This project is a detailed analysis of Blinkit data, focusing on trends related 
 4. **Customize Filters**: Use the filters in Power BI to customize your analysis based on specific outlets, item types, or other factors.
 
 ## Data Source
-The data used in this project is available in CSV format, attached in the zip file.
+The data used in this project is available in an Excel sheet.
 
 ## Conclusion
 This project provides an in-depth, interactive way to study and understand the trends and patterns in Blinkit data. By leveraging advanced analytical tools, users can gain valuable insights into the factors that drive sales and customer satisfaction across different outlets and item types.
