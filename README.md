@@ -30,3 +30,6 @@ The data used in this project is available in CSV format, attached in the zip fi
 ## Conclusion
 This project provides an in-depth, interactive way to study and understand the trends and patterns in Blinkit data. By leveraging advanced analytical tools, users can gain valuable insights into the factors that drive sales and customer satisfaction across different outlets and item types.
 
+## Author
+
+- **Akhila V Raichur** - akhilaraichur@gmail.com
