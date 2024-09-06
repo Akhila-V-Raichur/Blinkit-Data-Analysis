@@ -33,3 +33,6 @@ This project provides an in-depth, interactive way to study and understand the t
 ## Author
 
 - **Akhila V Raichur** - akhilaraichur@gmail.com
+
+- ![Blinkit data analysis](https://github.com/user-attachments/assets/ab3e0193-8e1b-4224-b110-d6934cdde69b)
+
